@@ -16,5 +16,10 @@ namespace Stackoverflow77965229
         {
             InitializeComponent();
         }
+
+        private void FrmBrowser_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
